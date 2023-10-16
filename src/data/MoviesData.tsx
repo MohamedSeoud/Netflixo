@@ -2,7 +2,266 @@ export const MoviesData=[
     {
         name:'Army Of The Dead ',
         desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
-        titleImage:'1.jpg'
-
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
     },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },    {
+        name:'Army Of The Dead ',
+        desc:'After a zombie outbreak in Las Vegas, a group of mercenaries takes the ultimate gamble by venturing into the quarantine zone for the greatest heist ever',
+        titleImage:'1.jpg',
+        category:'Western',
+        language:'English',
+        year:'2022',
+        time:'3hrs',
+        rate:'3.4',
+        reviews:'23'
+    },
+
+    
 ]
